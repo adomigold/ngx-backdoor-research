@@ -298,6 +298,7 @@ sudo nginx -t && sudo systemctl reload nginx
 
 ## References
 
+- [When Your Web Server Becomes the Attacker](https://medium.com/@adolphgasper/when-your-web-server-becomes-the-attacker-88381bc2dc77)  
 - [Nginx Dynamic Module Development](https://nginx.org/en/docs/dev/development_guide.html)  
 - [MITRE ATT&CK T1505.003 — Web Shell](https://attack.mitre.org/techniques/T1505/003/)  
 - [MITRE ATT&CK T1547 — Boot/Logon Autostart Execution](https://attack.mitre.org/techniques/T1547/)  
